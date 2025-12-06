@@ -1,1 +1,2 @@
-# git-conflict-challenge1
+# git-conflict-challenge
+Je modifie le fichier readme dans Github
